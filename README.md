@@ -3,7 +3,7 @@
 
 
 
-# Arc Pad. A cheap, open hardware and easy to make Macro Pad.
+# Macro pad
 
 <img width="1920" height="1080" alt="bottom" src="https://github.com/user-attachments/assets/a313379b-d3a6-4110-a913-1128a9d24fe1" />
 
