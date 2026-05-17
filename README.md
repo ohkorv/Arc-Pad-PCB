@@ -1,7 +1,7 @@
-
+<img width="1920" height="1080" alt="leftside" src="https://github.com/user-attachments/assets/76a1153a-2a12-47d7-b1d1-0f665949db5d" />
 # Arc Pad
 
-<img width="1920" height="1080" alt="leftside" src="https://github.com/user-attachments/assets/76a1153a-2a12-47d7-b1d1-0f665949db5d" />
+
 
 
 
