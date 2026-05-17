@@ -2154,7 +2154,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Raspberry Pi Pico "
+	(text "Raspberry Pi Pico 2 W"
 		(exclude_from_sim no)
 		(at 38.608 20.574 0)
 		(effects
