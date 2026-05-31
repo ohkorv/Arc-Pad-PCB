@@ -1,3 +1,5 @@
+Disclaimer! Currently non functional, pins for the oled are configured wrong. Possible to fix in software
+
 <img width="1920" height="1080" alt="leftside" src="https://github.com/user-attachments/assets/76a1153a-2a12-47d7-b1d1-0f665949db5d" />
 
 
